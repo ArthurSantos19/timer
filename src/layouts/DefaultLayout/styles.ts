@@ -6,7 +6,7 @@ export const LayoutContainer = styled.div`
   margin: 5rem auto;
   padding: 2.5rem;
 
-  background: black;
+  background: pink;
   border-radius: 8px;
 
   display: flex;
