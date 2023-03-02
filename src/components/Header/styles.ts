@@ -17,7 +17,7 @@ export const HeaderContainer = styled.header`
       justify-content: center;
       align-items: center;
 
-      color: black;
+      color: white;
 
       border-top: 3px solid transparent;
       border-bottom: 3px solid transparent;
